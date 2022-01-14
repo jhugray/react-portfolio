@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 // Props are passed through our functional component.
 function NavTabs(props) {
   const tabs = ['About', 'Portfolio', 'Resume', 'Contact'];
@@ -21,6 +22,7 @@ function NavTabs(props) {
         </li>
       ))}
     </ul>
+    
   );
 }
 
