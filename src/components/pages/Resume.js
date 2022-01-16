@@ -9,7 +9,7 @@ function Resume() {
         <Col> 
         <Button className="m-2" href="https://docs.google.com/document/d/e/2PACX-1vS3q53FrjJN1HFwznNgPTDQvlHBKocuTYvKZ8nF1-s2i1apmY-FpEPQVho0dzG5zJE3Rzd1ndqXBeQO/pub?embedded=true" target="_blank">
           <h2>Open my resume in a new window</h2>
-          <p>You can view it in a larger window and save it!</p>
+          <p>You can view it in a larger window and right click to save it!</p>
         </Button>
         </Col>
        

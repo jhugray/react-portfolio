@@ -12,4 +12,18 @@ code {
     monospace;
 }
 
+.banner {
+  padding-left: 20px;
+  padding-top: 90px;
+  background-image: url("/src/assets/geo.jpeg");
+  background-size: cover;
+  background-position: center; 
+}
 
+.aboutp {
+  font-size: large;
+}
+
+.nav {
+  font-size: large;
+}

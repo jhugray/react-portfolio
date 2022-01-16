@@ -5,6 +5,8 @@ import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
+
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row } from 'react-bootstrap';
 import { MDBBtn, MDBIcon } from 'mdb-react-ui-kit';
@@ -34,11 +36,15 @@ function PortfolioContainer() {
   return (
     <Container className="d-flex flex-column min-vh-100">
 
+        <div class="has-bg-img banner fluid">
       <header>
+      
         <h1>Jess Hause Ugray</h1>
+        
          {/* Pass the state value and the setter as props to NavTabs */}
           <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       </header>
+      </div>
        {/* Call the renderPage function passing in the currentPage */}
       <div>{renderPage(currentPage)}</div>
 
