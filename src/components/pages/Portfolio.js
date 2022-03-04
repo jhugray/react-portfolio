@@ -12,6 +12,20 @@ function Portfolio() {
     //   image: "", 
     //   text: ""
     // },
+        { 
+      name: "Cherry Planner", 
+      appURL: "https://cherryplanner.herokuapp.com/", 
+      repo: "https://github.com/jhugray/cherryplanner", 
+      image: "https://user-images.githubusercontent.com/59127869/156824506-998e0496-c32f-4b6a-8582-2e0f700a42f4.png", 
+      text: "Plan your day with Cherry Planner! Log in to save your day across devices."
+    },
+        { 
+      name: "|Paint|", 
+      appURL: "https://paintbetweenthelines.herokuapp.com/", 
+      repo: "https://github.com/jhugray/colouring", 
+      image: "https://user-images.githubusercontent.com/85147307/152003893-e56946e1-565f-4609-997b-1956f47ba182.png", 
+      text: "A fun colouring app with the ability to login and save your work, that is also a PWA."
+    },
     { 
       name: " Sputtle", 
       appUrl: "", 

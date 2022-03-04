@@ -16,7 +16,7 @@ function Resume() {
       </Row>
       <Row style={{ width: 'auto', height: 'auto' }}>
         <Ratio>
-          <iframe id="resume" src="https://docs.google.com/document/d/e/2PACX-1vS3q53FrjJN1HFwznNgPTDQvlHBKocuTYvKZ8nF1-s2i1apmY-FpEPQVho0dzG5zJE3Rzd1ndqXBeQO/pub"></iframe>
+          <iframe id="resume" src="https://docs.google.com/document/d/e/2PACX-1vQnMwFyyNvG1A4Isp9IzTL5EzwaqnJ_xUhl-3akPMn0BdyjUiygAAg9irTLCK3cyOpiuAEDj-mnjXhb/pub"></iframe>
         </Ratio>
       </Row>
     </Container>
